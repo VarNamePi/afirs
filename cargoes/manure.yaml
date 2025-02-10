@@ -1,0 +1,17 @@
+abbreviation: SH
+available: true
+classes: 272
+colour: 63
+id: 2
+label: SHIT
+longName: manure
+name: Manure
+penaltyLength: 231
+penaltyLowerBound: 24
+price: 2056
+sprite:
+  filename: cargoes/manure.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 4

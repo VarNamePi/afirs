@@ -1,0 +1,17 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- LIVE
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - -1
+name: Port
+placement: on-water
+probabilityInGame: 1
+probabilityMapGen: 2
+prospectChance: 0
+tiles: []
+type: tertiary

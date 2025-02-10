@@ -1,0 +1,17 @@
+abbreviation: LS
+available: true
+classes: 32
+colour: 169
+id: 0
+label: LIVE
+longName: live stock
+name: Live Stock
+penaltyLength: 243
+penaltyLowerBound: 12
+price: 8224
+sprite:
+  filename: cargoes/live-stock.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

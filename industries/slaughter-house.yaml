@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- LIVE
+cargoProduction:
+- MEAT
+colour: 1
+fundCostMultiplier: 100
+id: 2
+layout:
+- - - -1
+name: Slaughter House
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

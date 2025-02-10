@@ -1,0 +1,17 @@
+abbreviation: ME
+available: true
+classes: 16
+colour: 184
+id: 1
+label: MEAT
+longName: meat
+name: Meat
+penaltyLength: 11
+penaltyLowerBound: 1
+price: 4112
+sprite:
+  filename: cargoes/meat.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

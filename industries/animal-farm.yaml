@@ -1,0 +1,44 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- LIVE
+- SHIT
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+name: Animal Farm
+placement: anywhere
+probabilityInGame: 8
+probabilityMapGen: 12
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/animal-farm/3.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/animal-farm/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/animal-farm/1.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/animal-farm/2.png
+      left: -31
+      top: 0
+type: primary
